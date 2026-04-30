@@ -1,4 +1,7 @@
+# Тестовый коммент
+
 import typer
+
 
 def main(
     name: str,
