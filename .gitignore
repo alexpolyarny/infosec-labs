@@ -1,3 +1,5 @@
-__MACOSX/
+__MACOSX
 .DS_Store
 Thumbs.db
+nmapres.txt
+nmapres_new.txt
